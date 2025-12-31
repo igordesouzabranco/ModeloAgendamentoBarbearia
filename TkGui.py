@@ -17,7 +17,7 @@ class GUI():
         self.txtCel = StringVar()
         self.txtData = StringVar()
         self.txtOpcao = StringVar()
-        opcoes = ["Cabelo", "Sombrancelha", "Barba"]
+        opcoes = ["Cabelo", "Sobrancelha", "Barba"]
 
         self.lnome = Label(self.window, text="Nome")
         self.lcelular = Label(self.window, text="Celular")

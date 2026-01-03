@@ -1,0 +1,6 @@
+# Não há dependências externas: este projeto usa apenas bibliotecas da stdlib do Python:
+# - sqlite3 (persistência local)
+# - tkinter (GUI)
+#
+# Requisito recomendado:
+# Python 3.8+

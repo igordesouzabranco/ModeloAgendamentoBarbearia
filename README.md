@@ -3,7 +3,7 @@
 Aplicação protótipo para agendamento de barbearia (GUI em Tkinter + persistência em SQLite).  
 Este repositório contém um exemplo simples de CRUD local (clientes e agendamentos) pensado para iniciantes que querem aprender a criar interfaces e salvar dados com SQLite.
 
-![Screenshot da interface](assets/screenshot_gui.png)
+![Screenshot da interface](assets/screenshot_gui.png.)
 
 Principais pontos
 - Interface gráfica com Tkinter e ttk (ComboBox) para seleção de serviços.  

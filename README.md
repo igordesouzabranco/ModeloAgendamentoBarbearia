@@ -55,7 +55,8 @@ Contribuições
 Contato
 - Igor de Souza Branco — igordesouzabranco@gmail.com  
 
-Licença
-- MIT
+## Licença
+
+Este projeto está licenciado sob a Licença MIT — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 _Last updated: 2026-01-03_
